@@ -53,7 +53,9 @@ angular.module('scrollable').directive('scrollable', [
           scope.$watch(function() {
             return element.height();
           }, function() {
-            element.scrollTop(0);
+            if (!!opts.scrollTop) {
+              element.scrollTop(0);
+            }
             element.perfectScrollbar('update');
           });
 

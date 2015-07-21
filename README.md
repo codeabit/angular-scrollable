@@ -58,6 +58,8 @@ install && npm install` to download needed dependencies.
 
 ## Changelog
 
+- 2015-07-21 v0.2.4 Don't scroll to top when container height changes unless
+                    the 'scrollTop' option is set to true.
 - 2014-01-17 v0.2.3 Scroll to top when container height changes.
 - 2013-12-30 v0.1.0 Initial commit.
 
