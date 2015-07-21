@@ -1,6 +1,6 @@
 {
   "name": "angular-scrollable",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "authors": [
     "jtrussell"
   ],
@@ -14,7 +14,7 @@
     "perfect"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/jtrussell/angular-scrollable",
+  "homepage": "https://github.com/codeabit/angular-scrollable",
   "ignore": [
     "**/.*",
     "node_modules",
