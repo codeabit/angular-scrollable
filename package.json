@@ -1,6 +1,6 @@
 {
   "name": "angular-scrollable",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "description": "Fancy pants scrolling for angular apps",
   "main": "index.js",
   "directories": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jtrussell/angular-scrollable.git"
+    "url": "https://github.com/codeabit/angular-scrollable.git"
   },
   "keywords": [
     "table",
@@ -20,9 +20,9 @@
   "author": "jtrussell",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jtrussell/angular-scrollable/issues"
+    "url": "https://github.com/codeabit/angular-scrollable/issues"
   },
-  "homepage": "https://github.com/jtrussell/angular-scrollable",
+  "homepage": "https://github.com/codeabit/angular-scrollable",
   "devDependencies": {
     "grunt-contrib-copy": "~0.5.0",
     "grunt-contrib-concat": "~0.3.0",
